@@ -1,0 +1,12 @@
+# data
+data_dir: hymenoptera_data
+dataset_id: 154c3168ba74424bba3fd9a848a00594
+
+# model training
+lr: 0.001
+momentum: 0.9
+num_epochs: 15
+
+# validation
+val_acc_threshold: 0.90
+val_loss_threshold: 0.2
