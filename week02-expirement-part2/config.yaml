@@ -1,0 +1,6 @@
+# data
+dataset_path: .
+dataset_output_path: ./dataset
+training_dataset_path: ./dataset
+
+
